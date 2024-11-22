@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://lk.linkedin.com/in/kusal-adithya-5989a5275" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCNxxjgRqXA-3YyS6sf4Uz3V-D46IcsEhL9dgZpXGzXimWIjOQ2eODj54BtCCMsu0gkIY&usqp=CAU" alt="Kusal Adithya" height="30" width="35" /></a>
-<a href="https://www.facebook.com/profile.php?id=100091164764618" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kusal Adithya" height="30" width="40" /></a>
+<a href="https://medium.com/@pererakusal79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Kusal Adithya" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
