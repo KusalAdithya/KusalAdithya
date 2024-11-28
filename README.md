@@ -2,10 +2,8 @@
 
 ## BEng (Hons) Software Engineering Undergraduate
 
-![Profile Views](https://img.shields.io/badge/Profile%20Views-96-blue)
-
 ### 🌱 What I'm Up To
-- Currently learning DSA / React Native & Italian Language
+- Currently learning DSA / React Native / Java Web Development & Italian Language
 - Ask me about Web Development, Cross-Platform Development, and Mobile Development, POS System Development
 
 ### 📫 How to Reach Me
