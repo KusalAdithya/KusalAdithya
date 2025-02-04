@@ -3,7 +3,7 @@
 ## BEng (Hons) Software Engineering Undergraduate
 
 ### 🌱 What I'm Up To
-- Currently learning DSA / React Native / Java Web Development & Italian Language
+- Currently learning DSA / React / Java Web Development & Italian Language
 - Ask me about Web Development, Cross-Platform Development, and Mobile Development, POS System Development
 
 ### 📫 How to Reach Me
