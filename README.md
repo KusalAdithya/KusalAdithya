@@ -1,10 +1,8 @@
-# Hi 👋, I'm Kusal Adithya 👨‍💻
+## Aspiring Software Engineer | Full Stack Web & Mobile App Development
+I am a dedicated Software Engineering graduated with a strong passion for coding, problem-solving, and building innovative solutions. I have experience working with programming languages such as 𝗝𝗮𝘃𝗮, 𝗣𝗛𝗣, 𝗛𝗧𝗠𝗟, 𝗖𝗦𝗦, 𝗮𝗻𝗱 𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁, along with hands-on exposure to software development methodologies and tools.
+I am eager to apply my technical expertise and academic knowledge to solve real-world challenges and deliver impactful solutions. My key interests include 𝘄𝗲𝗯 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, 𝗺𝗼𝗯𝗶𝗹𝗲 𝗮𝗽𝗽 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁, and cloud computing. Committed to continuous learning, I aim to stay updated with emerging technologies and grow as a professional in the tech industry.
 
-## BEng (Hons) Software Engineering Undergraduate
-
-### 🌱 What I'm Up To
-- Currently learning DSA / NextJS / Java Web Development & Italian Language
-- Ask me about Web Development, Cross-Platform Development, and Mobile Development, POS System Development
+𝗟𝗲𝘁’𝘀 𝗖𝗼𝗻𝗻𝗲𝗰𝘁! Open to internships, collaborations, and networking opportunities.
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kusal-adithya/)
